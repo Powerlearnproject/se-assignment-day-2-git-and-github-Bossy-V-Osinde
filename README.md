@@ -61,7 +61,7 @@ A well-written README ensures that others can quickly understand the project, ho
    - Push the Commit to GitHub: Use git push to upload the changes to the remote GitHub repository.
 
 - The commit function in Git enables version control which allows users to monitor project modifications while providing an option to return to previous versions when necessary.
-- 
+  
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 - The branching feature enables project development across separate lines that operate independently. The feature provides special value to collaborative teams because developers can work separately on features through different branches without modifying the 'main' or 'master' codebase.
