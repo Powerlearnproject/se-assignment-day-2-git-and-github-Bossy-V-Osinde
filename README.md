@@ -95,14 +95,15 @@ maintain constant team interaction.
 
 - Differences between Forking and Cloning:
 
-Forking: Through forking you obtain an exact duplicate of the repository which exists under your GitHub account so you can work freely on it. Users should submit pull requests through their personal forked repository when their proposed modifications are ready to be reviewed by the original repository maintainers.
-Cloning: Creates a local copy of a repository on your machine. Cloning creates local repository duplicates while it does not generate any duplicates on GitHub.
+   - Forking: Through forking you obtain an exact duplicate of the repository which exists under your GitHub account so you can work freely on it. Users should submit pull requests through their personal forked repository when their proposed modifications are ready to 
+     be reviewed by the original repository maintainers.
+   - Cloning: Creates a local copy of a repository on your machine. Cloning creates local repository duplicates while it does not generate any duplicates on GitHub.
 
 - Scenarios for Forking:
 
-Contributing to open-source projects by creating your own version of the repository under your GitHub account even without write permissions for the original project.
+   - Contributing to open-source projects by creating your own version of the repository under your GitHub account even without write permissions for the original project.
 
-An isolated environment allows you to test changes which prevent alterations to the original project.
+   - An isolated environment allows you to test changes which prevent alterations to the original project.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
@@ -111,25 +112,25 @@ An isolated environment allows you to test changes which prevent alterations to 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 - Common challenges:
-The incorrect selection of branches and ineffective branch management becomes a problem for new users in Git.
+   - The incorrect selection of branches and ineffective branch management becomes a problem for new users in Git.
 
-Merge conflicts emerge when different team members modify the same code segments thus creating difficulties during combination processes.
+   - Merge conflicts emerge when different team members modify the same code segments thus creating difficulties during combination processes.
 
-Inadequate descriptive commit messages create difficulties for understanding the intended purpose of modifications.
+   - Inadequate descriptive commit messages create difficulties for understanding the intended purpose of modifications.
 
-The practice of avoiding pull requests becomes problematic because it omits important code review steps which results in potential bugs.
+   - The practice of avoiding pull requests becomes problematic because it omits important code review steps which results in potential bugs.
 
-The practice of not keeping updates current will result in conflicts between versions.
+   - The practice of not keeping updates current will result in conflicts between versions.
 
 - Best practices include:
-Team branches should be structured through established workflows including Git Flow and GitHub Flow.\
+   - Team branches should be structured through established workflows including Git Flow and GitHub Flow.
 
-Each change needs a clear description in the commit messages to enhance understanding.
+   - Each change needs a clear description in the commit messages to enhance understanding.
 
-All team reviews for merging must happen through pull requests before actual merges can occur.
+   - All team reviews for merging must happen through pull requests before actual merges can occur.
 
-Employees should perform regular pull operations to update their work and prevent conflicts.
+   - Employees should perform regular pull operations to update their work and prevent conflicts.
 
-Address merge conflicts immediately after their occurrence to prevent complications from developing.
+   - Address merge conflicts immediately after their occurrence to prevent complications from developing.
 
 
